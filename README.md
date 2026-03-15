@@ -2,13 +2,7 @@
 
 > Practical lab repository for learning image processing and introductory computer vision with Python and OpenCV.
 
-## :art: Hero Image Prompt
-
-Use this prompt to generate a README hero image:
-
-```text
-Create a wide GitHub README hero banner for a project called "Digital Image Processing and Computer Vision". Show a clean academic-tech visual scene centered on a portrait photo being transformed through multiple computer vision stages: RGB channel split, histogram graphs, grayscale conversion, histogram equalization, blur and Gaussian smoothing, Sobel edge detection, thresholding, and morphological operations. Include subtle OpenCV-style UI elements, image grids, pixel overlays, contour lines, and analytical charts floating around the composition. Style: modern, sharp, professional, high-detail, blue-cyan scientific color palette, dark-to-light gradient background, cinematic lighting, minimal clutter, polished educational poster aesthetic. Emphasize Python, OpenCV, NumPy, and Matplotlib workflow. 16:9 aspect ratio, high resolution, centered title space, suitable as a repository header image.
-```
+![Image](DIP.png)
 
 This repository is a practical lab collection for core Digital Image Processing (DIP) and introductory Computer Vision concepts using Python, OpenCV, NumPy, and Matplotlib. It contains step-by-step lab materials, runnable notebooks, full code listings, explanatory notes, and summary documents built around a single sample image, `Girl.jpg`.
 
