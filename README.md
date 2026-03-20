@@ -65,7 +65,7 @@ Each lab folder generally contains:
 
 Top-level summary files provide consolidated revision material across all labs.
 
-## :test_tube: Lab Guide
+## :test_tube: Lab Guide.......
 
 ### :framed_picture: Lab 01: RGB Image Loading, Channel Splitting, and Histogram Analysis
 
